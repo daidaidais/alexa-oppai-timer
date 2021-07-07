@@ -1,0 +1,4 @@
+node_modules
+googleCloudKey.json
+.DS_Store
+to_upload_to_Lambda

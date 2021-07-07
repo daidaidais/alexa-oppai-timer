@@ -1,0 +1,18 @@
+{
+  "name": "oppai-timer",
+  "version": "1.0.0",
+  "description": "Runs breast feeding timer and keeps track of breast feeding records",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daisuke Yukita",
+  "license": "Apache License",
+  "dependencies": {
+    "ask-sdk-core": "^2.7.0",
+    "ask-sdk-dynamodb-persistence-adapter": "^2.10.2",
+    "ask-sdk-model": "^1.27.0",
+    "aws-sdk": "^2.326.0",
+    "google-spreadsheet": "^3.1.15"
+  }
+}
